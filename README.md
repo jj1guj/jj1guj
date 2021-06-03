@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 # Affilation
 - [University of Tsukuba Amateur Radio Club (JR1ZTT)](https://jr1ztt.net/)
 - [OpenEsys](https://ayu.open.esys.tsukuba.ac.jp/)
+- [Computer Shogi Association(CSA)](http://www2.computer-shogi.org/)
 
 # Achievements
 - 2019/8/3, 4: Exhibit Make Faire Tokyo 2019 as a menber of OpenEsys. [(link)](https://makezine.jp/event/makers-mft2019/m0244/)
