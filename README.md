@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jj1guj&show_icons=true&count_private=true)
 # How am I
 - 23 year's old
-- I'm a graduate student at [Master's and Doctoral Progams in Intelligent and Mechanical Interaction Systems (imis)](https://www.imis.tsukuba.ac.jp/), University of Tsukuba.
+- I'm a graduate student at　University of Tsukuba [Master's and Doctoral Progams in Intelligent and Mechanical Interaction Systems (imis)](https://www.imis.tsukuba.ac.jp/).
 
 # What am I interested in
 - Parallel computing
