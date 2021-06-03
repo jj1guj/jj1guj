@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - I'm developing reversi AI, [dekunobou](https://github.com/jj1guj/dekunobou-genetic) using genetic algorithm.
 - I enjoy competitive programming. [I'm green coder (Highest 1092)](https://atcoder.jp/users/jj1guj) at AtCoder.
 
-# Affilation
+# Affiliation
 - [University of Tsukuba Amateur Radio Club (JR1ZTT)](https://jr1ztt.net/)
 - [OpenEsys](https://ayu.open.esys.tsukuba.ac.jp/)
 - [Computer Shogi Association(CSA)](http://www2.computer-shogi.org/)
