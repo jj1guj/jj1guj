@@ -29,6 +29,15 @@ Here are some ideas to get you started:
 - I'm developing reversi AI, [dekunobou](https://github.com/jj1guj/dekunobou-genetic) using genetic algorithm.
 - I enjoy competitive programming. [I'm green coder (Highest 1092)](https://atcoder.jp/users/jj1guj) at AtCoder.
 
+# Affilation
+- [University of Tsukuba Amateur Radio Club (JR1ZTT)](https://jr1ztt.net/)
+- [OpenEsys](https://ayu.open.esys.tsukuba.ac.jp/)
+
+# Achievements
+- 2019/8/3, 4: Exhibit Make Faire Tokyo 2019 as a menber of OpenEsys. [(link)](https://makezine.jp/event/makers-mft2019/m0244/)
+- 2020/3/8: Got 800 rating and became green coder at AtCoder.
+- 2021/5/3: Participated [World Computer Shogi Championship (WCSC31)](http://www2.computer-shogi.org/wcsc31/), and got 28th prize at first qualifyng round.
+
 # My skills
 - C/C++
 - Python3
