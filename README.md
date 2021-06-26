@@ -36,9 +36,10 @@ Here are some ideas to get you started:
 - [Computer Shogi Association(CSA)](http://www2.computer-shogi.org/)
 
 # Achievements
-- 2019/8/3, 4: Exhibit Make Faire Tokyo 2019 as a menber of OpenEsys. [(link)](https://makezine.jp/event/makers-mft2019/m0244/)
-- 2020/3/8: Got 800 rating and became green coder at AtCoder.
-- 2021/5/3: Participated [World Computer Shogi Championship (WCSC31)](http://www2.computer-shogi.org/wcsc31/), and got 28th prize at first qualifyng round.
+- 2019/08/03, 04: Exhibit Make Faire Tokyo 2019 as a menber of OpenEsys. [(link)](https://makezine.jp/event/makers-mft2019/m0244/)
+- 2020/03/08: Got 800 rating and became green coder at AtCoder.
+- 2021/05/03: Participated [World Computer Shogi Championship (WCSC31)](http://www2.computer-shogi.org/wcsc31/), and got 28th prize at first qualifyng round.
+- 2021/6/27: Got 800 rating and became green coder at AtCoder Heuristic Contest(AHC)
 
 # My skills
 - C/C++
