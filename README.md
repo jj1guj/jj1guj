@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 - 2019/08/03, 04: Exhibit Make Faire Tokyo 2019 as a menber of OpenEsys. [(link)](https://makezine.jp/event/makers-mft2019/m0244/)
 - 2020/03/08: Got 800 rating and became green coder at AtCoder.
 - 2021/05/03: Participated [World Computer Shogi Championship (WCSC31)](http://www2.computer-shogi.org/wcsc31/), and got 28th prize at first qualifyng round.
-- 2021/6/27: Got 800 rating and became green coder at AtCoder Heuristic Contest(AHC)
+- 2021/06/27: Got 800 rating and became green coder at AtCoder Heuristic Contest(AHC)
+- 2021/07/03: Participated [Denryusen TSEC2](https://denryu-sen.jp/tsec02/index.html) and got 40th prize at prelium round.(10 wins 13 lose 1 draw)
 
 # My skills
 - C/C++
