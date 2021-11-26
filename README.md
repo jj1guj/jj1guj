@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 # What do I
 - I'm developing Shogi (Japanese chess) AI, ponkotsu.
-- I'm developing reversi AI, [dekunobou](https://github.com/jj1guj/dekunobou-genetic) using genetic algorithm.
+- I'm developing reversi AI, [dekunobou](https://github.com/jj1guj/dekunobou) using genetic algorithm.
 - I enjoy competitive programming. [I'm green coder (Highest 1092)](https://atcoder.jp/users/jj1guj) at AtCoder.
 
 # Affiliation
