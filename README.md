@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jj1guj&show_icons=true&count_private=true)  
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=jj1guj)](https://github.com/KATO-Hiro/AtCoderTrophies)  
 [![jj1guj](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fjj1guj)](https://atcoder.jp/users/jj1guj)
 # How am I
 - 23 year's old
