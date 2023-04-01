@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![jj1guj](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fjj1guj)](https://atcoder.jp/users/jj1guj)
 # How am I
 - 24 year's old
-- My affiliation is [Graduate School of Engineering, Information and Systems, University of Tsukuba](https://www.imis.tsukuba.ac.jp/).
+- I graduated from [Graduate School of Engineering, Information and Systems, University of Tsukuba](https://www.imis.tsukuba.ac.jp/).
 
 # What am I interested in
 - Parallel computing
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - [Computer Shogi Association(CSA)](http://www2.computer-shogi.org/)
 
 # Achievements
-- 2019/08/03, 04: Exhibit Make Faire Tokyo 2019 as a menber of OpenEsys. [(link)](https://makezine.jp/event/makers-mft2019/m0244/)
+- 2019/08/03, 04: Exhibit Maker Faire Tokyo 2019 as a menber of OpenEsys. [(link)](https://makezine.jp/event/makers-mft2019/m0244/)
 - 2020/03/08: Got 800 rating and became green coder at AtCoder.
 - 2021/05/03: Participated [World Computer Shogi Championship (WCSC31)](http://www2.computer-shogi.org/wcsc31/), and got 28th prize at first qualifyng round.(2 wins 6 lose)
 - 2021/06/27: Got 800 rating and became green coder at AtCoder Heuristic Contest(AHC)
