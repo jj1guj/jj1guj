@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 - I enjoy competitive programming. [I'm green coder (Highest 1092)](https://atcoder.jp/users/jj1guj) at AtCoder.
 
 # Affiliation
-- [University of Tsukuba Amateur Radio Club (JR1ZTT)](https://jr1ztt.net/)
-- [OpenEsys](https://ayu.open.esys.tsukuba.ac.jp/)
 - [Computer Shogi Association(CSA)](http://www2.computer-shogi.org/)
 
 # Achievements
@@ -43,7 +41,7 @@ Here are some ideas to get you started:
 - 2021/06/27: Got 800 rating and became green coder at AtCoder Heuristic Contest(AHC)
 - 2021/07/03: Participated [Denryusen TSEC2](https://denryu-sen.jp/tsec02/index.html) and got 40th prize at prelium round.(10 wins 13 lose 1 draw)
 - 2021/11/20, 21: Participated [Denryusen](https://denryu-sen.jp/dr2/index.html) and got 15th prize at C-class round.(4 wins 13 lose)
-- 2022/05/03: Participated [World Computer Shogi Championship (WCSC32)](http://www2.computer-shogi.org/wcsc32/), and got 19th prize at first qualifyng round.(4 wins 4 lose)
+- 2022/05/03-04: Participated [World Computer Shogi Championship (WCSC33)](http://www2.computer-shogi.org/wcsc33/), and got 11th prize.(11 wins 6 lose)
 # My skills
 - C/C++
 - Python3
@@ -56,7 +54,9 @@ Here are some ideas to get you started:
 # Studying skills
 - Rust
 - Go
+- Ruby on Rails
 
 # Contact
+- Misskey: [@jj1guj@jiskey.dev](https://jiskey.dev/@jj1guj)
 - Twitter: [@jj1guj](https://twitter.com/jj1guj)
 - mail: jj1guj[AT]jj1guj.net (Please change [AT] to @)
