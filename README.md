@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jj1guj&show_icons=true&count_private=true)  
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=jj1guj)](https://github.com/KATO-Hiro/AtCoderTrophies)  
 [![jj1guj](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fjj1guj)](https://atcoder.jp/users/jj1guj)
+
 # How am I
-- 24 year's old
+- 26 year's old
 - I graduated from [Graduate School of Engineering, Information and Systems, University of Tsukuba](https://www.imis.tsukuba.ac.jp/).
+- I'm working at [ACCESS CO.,LTD.](https://www.access-company.com)
 
 # What am I interested in
 - Parallel computing
@@ -32,6 +34,7 @@ Here are some ideas to get you started:
 - I enjoy competitive programming. [I'm green coder (Highest 1092)](https://atcoder.jp/users/jj1guj) at AtCoder.
 
 # Affiliation
+- [ACCESS CO.,LTD.](https://www.access-company.com)
 - [Computer Shogi Association(CSA)](http://www2.computer-shogi.org/)
 
 # Achievements
@@ -46,6 +49,7 @@ Here are some ideas to get you started:
 - 202３/12/02-03: Participated [Denryusen](https://denryu-sen.jp/dr4/) and got 1st place at C-class round.(12 wins 1 lose 1 draw)
 - 2024/01/12~03/17: Participated [Denryusen Mynavi News Cup](https://denryu-sen.jp/hd2/index.html) and got 10th prize at qualifying round.(13 wins 14 lose 3 draw)
 - 2024/05/03-05/05: Participated [World Computer Shogi Championship (WCSC34)](http://www2.computer-shogi.org/wcsc34/), and got 13th prize.(3 wins 2 lose 4 draw)
+
 # My skills
 - C/C++
 - Python3
@@ -61,6 +65,5 @@ Here are some ideas to get you started:
 - Ruby on Rails
 
 # Contact
-- Misskey: [@jj1guj@jiskey.dev](https://jiskey.dev/@jj1guj)
-- Twitter: [@jj1guj](https://twitter.com/jj1guj)
+- Misskey: [@jj1guj@jiskey.dev](https://misskey.io/@jj1guj@jiskey.dev)
 - mail: jj1guj[AT]jj1guj.net (Please change [AT] to @)
