@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 2022/05/03-05: Participated [World Computer Shogi Championship (WCSC32)](http://www2.computer-shogi.org/wcsc32/), and got 19th prize at first qualifyng round.(4 wins 4 lose)
 - 2023/05/03-05: Participated [World Computer Shogi Championship (WCSC33)](http://www2.computer-shogi.org/wcsc33/), and got 11th prize.(11 wins 6 lose)
 - 202３/12/02-03: Participated [Denryusen](https://denryu-sen.jp/dr4/) and got 1st place at C-class round.(12 wins 1 lose 1 draw)
-- 2024/01/12~03/17: Participated [Denryusen Mynavi News Cup](https://denryu-sen.jp/hd2/index.html) and got 10th prize at qualifying round.(13 wins 14 lose 3 draw)
+- 2024/01/12-03/17: Participated [Denryusen Mynavi News Cup](https://denryu-sen.jp/hd2/index.html) and got 10th prize at qualifying round.(13 wins 14 lose 3 draw)
 - 2024/05/03-05/05: Participated [World Computer Shogi Championship (WCSC34)](http://www2.computer-shogi.org/wcsc34/), and got 13th prize.(3 wins 2 lose 4 draw)
 
 # My skills
