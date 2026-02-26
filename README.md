@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 # What do I
 - I'm developing Shogi (Japanese chess) AI, ponkotsu.
 - I'm developing reversi AI, [dekunobou](https://github.com/jj1guj/dekunobou) using genetic algorithm.
-- I enjoy competitive programming. [I'm green coder (Highest 1092)](https://atcoder.jp/users/jj1guj) at AtCoder.
+- I enjoy competitive programming. [I'm green coder (Highest 1092)](https://atcoder.jp/users/jj1guj) at AtCoder, and [I'm cyan coder (Highest 1238)](https://atcoder.jp/users/jj1guj?contestType=heuristic) at AtCoder Heuristic Contest(AHC).
 
 # Affiliation
 - [ACCESS CO.,LTD.](https://www.access-company.com)
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 - 2024/01/12-03/17: Participated [Denryusen Mynavi News Cup](https://denryu-sen.jp/hd2/index.html) and got 10th prize at qualifying round.(13 wins 14 lose 3 draw)
 - 2024/05/03-05: Participated [World Computer Shogi Championship (WCSC34)](http://www2.computer-shogi.org/wcsc34/), and got 13th prize.(3 wins 2 lose 4 draw)
 - 2025/05/03-05: Participated [World Computer Shogi Championship (WCSC35)](http://www2.computer-shogi.org/wcsc35/), and got 10th prize.(5 wins 4 lose)
+- 2026/02/23: Got 1200 rating and became cyan coder at AtCoder Heuristic Contest(AHC)
 
 # My skills
 - C/C++
