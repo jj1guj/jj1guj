@@ -67,5 +67,5 @@ Here are some ideas to get you started:
 - Ruby on Rails
 
 # Contact
-- Misskey: [@jj1guj@jiskey.dev](https://misskey.io/@jj1guj@jiskey.dev)
+- Misskey: [@jj1guj@jiskey.dev](https://jiskey.dev/@jj1guj)
 - mail: jj1guj[AT]jj1guj.net (Please change [AT] to @)
