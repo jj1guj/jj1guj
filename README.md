@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 [![jj1guj](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fjj1guj)](https://atcoder.jp/users/jj1guj)
 
 # How am I
+- World’s 5th-ranked Shogi AI developer
 - 27 year's old
 - I graduated from [Graduate School of Engineering, Information and Systems, University of Tsukuba](https://www.imis.tsukuba.ac.jp/).
 - I'm working at [ACCESS CO.,LTD.](https://www.access-company.com)
