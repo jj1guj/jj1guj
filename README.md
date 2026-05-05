@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - 2024/05/03-05: Participated [World Computer Shogi Championship (WCSC34)](http://www2.computer-shogi.org/wcsc34/), and got 13th prize.(3 wins 2 lose 4 draw)
 - 2025/05/03-05: Participated [World Computer Shogi Championship (WCSC35)](http://www2.computer-shogi.org/wcsc35/), and got 10th prize.(5 wins 4 lose)
 - 2026/02/23: Got 1200 rating and became cyan coder at AtCoder Heuristic Contest(AHC)
-- 2026/05/03-05: Participated [World Computer Shogi Championship (WCSC35)](https://www.computer-shogi.org/wcsc36/), and got 5th prize.(9 wins 7 lose)
+- 2026/05/03-05: Participated [World Computer Shogi Championship (WCSC36)](https://www.computer-shogi.org/wcsc36/), and got 5th prize.(9 wins 7 lose)
 
 # My skills
 - C/C++
