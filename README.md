@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - Machine learning
 
 # What do I
-- I'm developing Shogi (Japanese chess) AI, ponkotsu.
+- I'm developing Shogi (Japanese chess) AI, [ponkotsu](https://github.com/jj1guj/ponkotsu).
 - I'm developing reversi AI, [dekunobou](https://github.com/jj1guj/dekunobou) using genetic algorithm.
 - I enjoy competitive programming. [I'm green coder (Highest 1092)](https://atcoder.jp/users/jj1guj) at AtCoder, and [I'm cyan coder (Highest 1238)](https://atcoder.jp/users/jj1guj?contestType=heuristic) at AtCoder Heuristic Contest(AHC).
 
