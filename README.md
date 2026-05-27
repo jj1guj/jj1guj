@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats Card](https://github-readme-stats.jj1guj.net/cards/stats.svg)  
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=jj1guj)](https://github.com/KATO-Hiro/AtCoderTrophies)  
+[![AtCoder Trophies](https://atcodertrophies.jj1guj.net/atcoder/jj1guj.svg)](https://github.com/KATO-Hiro/AtCoderTrophies)  
 [![jj1guj](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fjj1guj)](https://atcoder.jp/users/jj1guj)
 
 # How am I
