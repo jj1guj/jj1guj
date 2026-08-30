@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats Card](https://github-readme-stats.jj1guj.net/cards/stats.svg)  
+[![GitHub Stats Card](https://github-readme-stats.jj1guj.net/cards/stats.svg?v=20260830)](https://github-readme-stats.jj1guj.net)  
 [![AtCoder Trophies](https://atcodertrophies.jj1guj.net/atcoder/jj1guj.svg)](https://github.com/jj1guj/AtCoderTrophies)  
 [![jj1guj](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fjj1guj)](https://atcoder.jp/users/jj1guj)
 
